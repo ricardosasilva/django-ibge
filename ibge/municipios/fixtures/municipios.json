@@ -36113,10 +36113,10 @@
     "pk": 3530805, 
     "model": "municipios.municipio", 
     "fields": {
-      "nome_ascii": "Moji Mirim", 
+      "nome_ascii": "Mogi Mirim", 
       "meso_regiao": 89, 
       "uf": "SP", 
-      "nome": "Moji Mirim"
+      "nome": "Mogi Mirim"
     }
   }, 
   {
